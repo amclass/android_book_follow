@@ -32,4 +32,19 @@
         android:layout_height="wrap_content"
         android:text="alertDialog"
         android:id="@+id/btn5"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="alertDialog_item"
+        android:id="@+id/btn6"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="progress dialog"
+        android:id="@+id/btn7"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="custom dialog"
+        android:id="@+id/btn8"/>
 </LinearLayout>
